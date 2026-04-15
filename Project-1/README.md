@@ -25,7 +25,33 @@ This project demonstrates my understanding of object-oriented programming, GUI d
 - Collaborated with team members on system design and functionality
 
 ## Screenshots
-(Add your screenshots below)
+
+### 🔐 Login UI
+![Login UI](../Screenshots/1.PNG)
+
+### 🖥️ Main Interface
+![Main Interface](../Screenshots/2.PNG)
+
+### 📚 Courses Available
+![Courses Available](../Screenshots/3.PNG)
+
+### 🎓 Electives Offered
+![Electives Offered](../Screenshots/4.PNG)
+
+### 👨‍🎓 Student Management
+![Student Management](../Screenshots/5.PNG)
+
+### 📖 Course Management
+![Course Management](../Screenshots/6.PNG)
+
+### 📝 Enrollment Management
+![Enrollment Management](../Screenshots/7.PNG)
+
+### ❌ Student Removal
+![Student Removal](../Screenshots/8.PNG)
+
+### ⚠️ Student Removal Confirmation
+![Student Removal Confirmation](../Screenshots/9.PNG)
 
 ## Project Link
 🔗 https://github.com/EthanWilliams02/Term4_ADP_Assignment
