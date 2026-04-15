@@ -27,8 +27,46 @@ The goal of this project was to reduce confusion during the application process 
 - Focused on improving accessibility and user experience  
 - Ensured consistency across all redesigned screens  
 
-## Screenshots  
-(Add your screenshots here)
+## 📸 Screenshots
+
+---
+
+### 🔐 Authentication
+![Login](../Screenshots/Login.png)  
+![Create Account](../Screenshots/Create-Account.png)  
+![Forgot Password](../Screenshots/Forgot-Password.png)
+
+---
+
+### 🏠 Dashboard
+![Dashboard](../Screenshots/Dashboard.png)
+
+---
+
+### 📄 Applications
+![My Applications](../Screenshots/My-Applications.png)  
+![Details](../Screenshots/Details.png)
+
+---
+
+### 🔔 Notifications
+![Notifications](../Screenshots/Notifications.png)
+
+---
+
+### 👤 User Profile
+![Profile Page](../Screenshots/Profile-Page.png)
+
+---
+
+### 📊 Tracking
+![Tracker](../Screenshots/Tracker.png)
+
+---
+
+### 💰 Allowance
+![Allowance Page](../Screenshots/Allowance-Page.png)  
+![Allowance Breakdown](../Screenshots/Allowance-Breakdown.png)
 
 ## Project Link  
 https://www.figma.com/design/2o459QPq1FgqfB1zrhvukq/Untitled?node-id=0-1&t=PdhaN8HvxxhJSJt2-1
